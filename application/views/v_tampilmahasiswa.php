@@ -12,7 +12,7 @@
             <th>NIM</th>
             <th>Nama</th>
             <th>Kelas</th>
-            <th>Tempat, Tanggal Lahir</th>
+            <th>Tempat, Tanggal lahir</th>
             <th>Alamat</th>
             <th>Jenis Kelamin</th>
             <th>Agama</th>
