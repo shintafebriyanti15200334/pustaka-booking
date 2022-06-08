@@ -311,5 +311,6 @@ switch (ENVIRONMENT)
  * --------------------------------------------------------------------
  *
  * And away we go...
+ * test
  */
 require_once BASEPATH.'core/CodeIgniter.php';
